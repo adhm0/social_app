@@ -1,4 +1,4 @@
-# firebase_training
+# firebase
 
 A new Flutter project.
 
